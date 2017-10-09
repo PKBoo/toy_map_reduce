@@ -8,14 +8,19 @@ Running the program
 ------------------
 
 To compile (unix): 
-'''
+
+```
 $ make
-'''
+```
+
 To run: 
-'''
+
+```
 FILE THREADS BUFFERSIZE
-'''
+```
+
 For example:
-'''
+
+```
 $ ./mr inputfile 1 1
-'''
+```
